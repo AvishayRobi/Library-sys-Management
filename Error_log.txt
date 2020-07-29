@@ -1,0 +1,40 @@
+11-6-2020 07:07:46
+search; last name was null
+-----------------
+
+11-6-2020 07:12:19
+search; last name was null
+-----------------
+
+11-6-2020 07:12:43
+search; last name was null
+-----------------
+
+13-6-2020 03:50:34
+search; last name was null
+-----------------
+
+13-6-2020 03:52:05
+book add; invalid book info
+-----------------
+
+13-6-2020 03:52:36
+book add; invalid book info
+-----------------
+
+13-6-2020 03:56:30
+For input string: "testtitle"
+-----------------
+
+14-6-2020 12:59:57
+search; last name was null
+-----------------
+
+19-6-2020 03:12:50
+book add; invalid book info
+-----------------
+
+19-6-2020 03:13:02
+book add; invalid book info
+-----------------
+
